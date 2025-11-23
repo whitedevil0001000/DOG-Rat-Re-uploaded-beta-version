@@ -1,4 +1,4 @@
-# DOG-Rat-re-uploaded-
+# DOG-Rat-re-uploaded-Beta (not working all camand)
 This tool is not mine, I have uploaded it here just to make everyone understand. This tool can be connected with Telegram bot and connection can be made with the victim android. 
 
 ### DISCLAIMER⚠️
@@ -56,6 +56,8 @@ This tool is not mine, I have uploaded it here just to make everyone understand.
 - ✨ Beautiful telegram bot interface
 - 🤖 Undetectable by antivirus
 
+
+(Beta version ) not working all command 🤕 
 
 <h2>Requirements</h2>
 <ul>
