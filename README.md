@@ -81,7 +81,7 @@ This tool is not mine, I have uploaded it here just to make everyone understand.
 
 
   </a>
-  <a href="https://cybershieldx.com/editor.apk">
+  <a href="https://t.me/WhiteDevil00100/92">
     <img src="https://img.shields.io/badge/APK%20Editor%20Download-Click%20to%20Download-brightgreen?style=for-the-badge&logo=android" alt="Download APK Editor" />
   </a>
 </p>
